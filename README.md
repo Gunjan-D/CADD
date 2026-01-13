@@ -1,6 +1,6 @@
 # CADD Practical File (BID 19006) - Lab Work Summary
 
-This repository documents my **Computer-Aided Drug Design (CADD)** practical work, including **chemical data retrieval, structure formats, docking, virtual screening, molecular dynamics, and gene analysis**. The practicals follow a step-by-step workflow using common bioinformatics and cheminformatics databases and tools. :contentReference[oaicite:0]{index=0}
+This repository documents my **Computer-Aided Drug Design (CADD)** practical work, including **chemical data retrieval, structure formats, docking, virtual screening, molecular dynamics, and gene analysis**. The practicals follow a step-by-step workflow using common bioinformatics and cheminformatics databases and tools.
 
 ---
 
