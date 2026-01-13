@@ -90,10 +90,10 @@ Goal: Analyze differential expression using GEO2R.
 - AutoDock + AutoGrid (docking setup + LGA runs) :contentReference[oaicite:24]{index=24}  
 - AutoDock Vina (virtual screening) :contentReference[oaicite:25]{index=25}  
 - OpenBabel (ligand handling steps) :contentReference[oaicite:26]{index=26}  
-- GROMACS (MD simulation pipeline) :contentReference[oaicite:27]{index=27}  
-- Ensembl Genome Browser (gene annotation) :contentReference[oaicite:28]{index=28}  
-- FGENESH (gene prediction) :contentReference[oaicite:29]{index=29}  
-- NCBI GEO / GEO2R (gene expression analysis) :contentReference[oaicite:30]{index=30}  
+- GROMACS (MD simulation pipeline) 
+- Ensembl Genome Browser (gene annotation)  
+- FGENESH (gene prediction) 
+- NCBI GEO / GEO2R (gene expression analysis)  
 
 ---
 
