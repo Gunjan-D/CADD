@@ -1,4 +1,4 @@
-# CADD Practical File (BID 19006) - Lab Work Summary
+# CADD Practical File - Lab Work Summary
 
 This repository documents my **Computer-Aided Drug Design (CADD)** practical work, including **chemical data retrieval, structure formats, docking, virtual screening, molecular dynamics, and gene analysis**. The practicals follow a step-by-step workflow using common bioinformatics and cheminformatics databases and tools.
 
@@ -109,4 +109,4 @@ Goal: Analyze differential expression using GEO2R.
 ---
 
 ## Notes
-This repo is intended as a **documentation record** of practical workflows and results. Steps and outputs are based on the lab manual and screenshots captured in the CADD practical file. :contentReference[oaicite:31]{index=31}
+This repo is intended as a **documentation record** of practical workflows and results. Steps and outputs are based on the lab manual and screenshots captured in the CADD practical file. 
