@@ -8,10 +8,10 @@ This repository documents my **Computer-Aided Drug Design (CADD)** practical wor
 
 ### Practical 1: Chemical File Formats + Compound Property Identification
 - Studied a drug molecule (**Morphine**, DrugBank ID: DB00295) and collected:
-  - Chemical formula, targets, pathways, toxicity notes, and physical properties. :contentReference[oaicite:1]{index=1}
+  - Chemical formula, targets, pathways, toxicity notes, and physical properties. 
 - Learned and documented key chemical structure file formats:
-  - **MOL** (single structure, coordinates + connection table, ends with `M END`) :contentReference[oaicite:2]{index=2}
-  - **SDF / 3D-SDF** (can store multiple structures + properties, ends with `$$$$`) :contentReference[oaicite:3]{index=3}
+  - **MOL** (single structure, coordinates + connection table, ends with `M END`) 
+  - **SDF / 3D-SDF** (can store multiple structures + properties, ends with `$$$$`) 
   - **PDB** (Protein Data Bank style structure text, ends with `END`) :contentReference[oaicite:4]{index=4}
   - **SMILES** (linear string representation) :contentReference[oaicite:5]{index=5}
   - **InChI** (International Chemical Identifier string) :contentReference[oaicite:6]{index=6}
