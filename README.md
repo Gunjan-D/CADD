@@ -12,16 +12,16 @@ This repository documents my **Computer-Aided Drug Design (CADD)** practical wor
 - Learned and documented key chemical structure file formats:
   - **MOL** (single structure, coordinates + connection table, ends with `M END`) 
   - **SDF / 3D-SDF** (can store multiple structures + properties, ends with `$$$$`) 
-  - **PDB** (Protein Data Bank style structure text, ends with `END`) :contentReference[oaicite:4]{index=4}
-  - **SMILES** (linear string representation) :contentReference[oaicite:5]{index=5}
-  - **InChI** (International Chemical Identifier string) :contentReference[oaicite:6]{index=6}
-- Compared experimental vs predicted properties (LogP, pKa, solubility, etc.) and reviewed ADMET predictions. :contentReference[oaicite:7]{index=7}
+  - **PDB** (Protein Data Bank style structure text, ends with `END`) 
+  - **SMILES** (linear string representation) 
+  - **InChI** (International Chemical Identifier string) 
+- Compared experimental vs predicted properties (LogP, pKa, solubility, etc.) and reviewed ADMET predictions. 
 
 ---
 
 ### Practical 2: PubChem Data Retrieval and Analysis
 Using **Morphine** in PubChem:
-- Retrieved **compound + substance + bioassay + patent** info. :contentReference[oaicite:8]{index=8}
+- Retrieved **compound + substance + bioassay + patent** info. 
 - Extracted computed chemical properties (molecular weight, XLogP, HBD/HBA, TPSA, etc.). :contentReference[oaicite:9]{index=9}
 - Identified **2D structure**, **3D conformer**, and listed similar 3D structures.
 - Visualized the 3D structure using **Discovery Studio (DS) Visualizer**. :contentReference[oaicite:10]{index=10}
