@@ -109,4 +109,4 @@ Goal: Analyze differential expression using GEO2R.
 ---
 
 ## Notes
-This repo is intended as a **documentation record** of practical workflows and results. Steps and outputs are based on the lab manual and screenshots captured in the CADD practical file. 
+Steps and outputs are based on the lab manual and screenshots captured in the CADD practical file.  This repo is intended as a **documentation record** of practical workflows and results.
