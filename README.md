@@ -71,7 +71,7 @@ Goal: Explore gene annotation features in Ensembl.
 ### Practical 7: Gene Prediction using FGENESH
 Goal: Predict gene/exon structure from a FASTA sequence.
 - Used NCBI nucleotide sequence input and predicted:
-  - Sequence length, predicted exon count, start/stop codon positions, and reported scores. :contentReference[oaicite:19]{index=19}
+  - Sequence length, predicted exon count, start/stop codon positions, and reported scores.
 
 ---
 
@@ -84,12 +84,12 @@ Goal: Analyze differential expression using GEO2R.
 ---
 
 ## Tools and Platforms Used
-- DrugBank (drug targets, pathways, properties) :contentReference[oaicite:21]{index=21}  
-- PubChem (compound/substance/bioassay/patent + 2D/3D structures) :contentReference[oaicite:22]{index=22}  
-- Discovery Studio (DS Visualizer) (3D visualization + interaction diagrams) :contentReference[oaicite:23]{index=23}  
-- AutoDock + AutoGrid (docking setup + LGA runs) :contentReference[oaicite:24]{index=24}  
-- AutoDock Vina (virtual screening) :contentReference[oaicite:25]{index=25}  
-- OpenBabel (ligand handling steps) :contentReference[oaicite:26]{index=26}  
+- DrugBank (drug targets, pathways, properties) 
+- PubChem (compound/substance/bioassay/patent + 2D/3D structures) 
+- Discovery Studio (DS Visualizer) (3D visualization + interaction diagrams) 
+- AutoDock + AutoGrid (docking setup + LGA runs)  
+- AutoDock Vina (virtual screening) 
+- OpenBabel (ligand handling steps) 
 - GROMACS (MD simulation pipeline) 
 - Ensembl Genome Browser (gene annotation)  
 - FGENESH (gene prediction) 
