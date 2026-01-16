@@ -54,7 +54,7 @@ Goal: Perform docking/virtual screening workflow (Vina-based).
 
 ### Practical 5: Molecular Dynamics Simulation Using GROMACS
 Goal: Run MD simulation and analyze stability/geometry.
-- Selected a protein structure (example listed: **3VH5 or 1AKI**). :contentReference[oaicite:16]{index=16}
+- Selected a protein structure (example listed: **3VH5 or 1AKI**). 
 - Steps included:
   - Clean structure (remove water), generate topology, define box, solvate, add ions.
   - Energy minimization, then analysis using `.edr` and plotting via XMGrace/Grace tools.
