@@ -38,7 +38,7 @@ Goal: Dock a ligand with a protein using AutoDock tools.
   - Generated ligand/receptor **PDBQT** files.
   - Configured grid box + saved GPF and DPF files.
 - Ran docking with **Lamarckian Genetic Algorithm**, analyzed best conformations by binding energy and clusters.
-- Visualized receptor-ligand interactions in DS Visualizer with 2D interaction diagrams. :contentReference[oaicite:13]{index=13}
+- Visualized receptor-ligand interactions in DS Visualizer with 2D interaction diagrams. 
 
 ---
 
