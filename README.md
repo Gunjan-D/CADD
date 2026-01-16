@@ -79,7 +79,7 @@ Goal: Predict gene/exon structure from a FASTA sequence.
 Goal: Analyze differential expression using GEO2R.
 - Loaded GEO dataset, grouped samples (normal vs disease), ran analysis.
 - Reviewed plots such as:
-  - Volcano plot, mean-difference plot, UMAP, Venn diagram, boxplot, density plot, p-value histogram, QQ plot, mean-variance trend. :contentReference[oaicite:20]{index=20}
+  - Volcano plot, mean-difference plot, UMAP, Venn diagram, boxplot, density plot, p-value histogram, QQ plot, mean-variance trend. 
 
 ---
 
