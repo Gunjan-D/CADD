@@ -64,8 +64,7 @@ Goal: Run MD simulation and analyze stability/geometry.
 ### Practical 6: Gene Annotation using Ensembl Genome Browser
 Goal: Explore gene annotation features in Ensembl.
 - Worked with **BRCA1**:
-  - Located gene position, explored region details, transcripts, gene tree metrics, ontologies, exons, protein and cDNA sequence views. :contentReference[oaicite:18]{index=18}
-
+  - Located gene position, explored region details, transcripts, gene tree metrics, ontologies, exons, protein and cDNA sequence views. 
 ---
 
 ### Practical 7: Gene Prediction using FGENESH
