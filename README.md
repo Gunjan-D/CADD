@@ -22,9 +22,9 @@ This repository documents my **Computer-Aided Drug Design (CADD)** practical wor
 ### Practical 2: PubChem Data Retrieval and Analysis
 Using **Morphine** in PubChem:
 - Retrieved **compound + substance + bioassay + patent** info. 
-- Extracted computed chemical properties (molecular weight, XLogP, HBD/HBA, TPSA, etc.). :contentReference[oaicite:9]{index=9}
+- Extracted computed chemical properties (molecular weight, XLogP, HBD/HBA, TPSA, etc.). 
 - Identified **2D structure**, **3D conformer**, and listed similar 3D structures.
-- Visualized the 3D structure using **Discovery Studio (DS) Visualizer**. :contentReference[oaicite:10]{index=10}
+- Visualized the 3D structure using **Discovery Studio (DS) Visualizer**. 
 
 ---
 
