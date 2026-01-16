@@ -45,7 +45,7 @@ Goal: Dock a ligand with a protein using AutoDock tools.
 ### Practical 4: Virtual Screening with AutoDock Vina
 Goal: Perform docking/virtual screening workflow (Vina-based).
 - Selected protein + inhibitor example:
-  - Example workflow includes **Curcumin**, and protein IDs referenced include **4K58** and **1A3Q** in the steps. :contentReference[oaicite:14]{index=14}
+  - Example workflow includes **Curcumin**, and protein IDs referenced include **4K58** and **1A3Q** in the steps. 
 - Downloaded top compounds in SDF format and used OpenBabel-based steps to handle ligand sets.
 - Prepared receptor (remove water, check missing atoms, set grid center/box).
 - Produced docking output and identified favorable conformations and interacting amino acids. :contentReference[oaicite:15]{index=15}
