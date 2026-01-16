@@ -48,7 +48,7 @@ Goal: Perform docking/virtual screening workflow (Vina-based).
   - Example workflow includes **Curcumin**, and protein IDs referenced include **4K58** and **1A3Q** in the steps. 
 - Downloaded top compounds in SDF format and used OpenBabel-based steps to handle ligand sets.
 - Prepared receptor (remove water, check missing atoms, set grid center/box).
-- Produced docking output and identified favorable conformations and interacting amino acids. 
+- Produced docking output and identified favorable conformations, interacting amino acids. 
 
 ---
 
