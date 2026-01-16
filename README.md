@@ -30,9 +30,9 @@ Using **Morphine** in PubChem:
 
 ### Practical 3: Molecular Interaction Studies (AutoDock)
 Goal: Dock a ligand with a protein using AutoDock tools.
-- Selected **HIV protease complex (PDB: 1BDR)** as receptor. :contentReference[oaicite:11]{index=11}
+- Selected **HIV protease complex (PDB: 1BDR)** as receptor. 
 - Prepared receptor:
-  - Removed water molecules and ligand, saved cleaned protein. :contentReference[oaicite:12]{index=12}
+  - Removed water molecules and ligand, saved cleaned protein. 
 - Selected ligand from PubChem (example used: **Indinavir**) and prepared it in AutoDock:
   - Added hydrogens, merged non-polar hydrogens, added Kollman charges, assigned AD4 atom types.
   - Generated ligand/receptor **PDBQT** files.
